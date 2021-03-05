@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fredchang.github.io</id>
     <title>Fredchang</title>
-    <updated>2021-03-05T17:02:19.550Z</updated>
+    <updated>2021-03-05T17:09:55.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fredchang.github.io"/>
     <link rel="self" href="https://fredchang.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://fredchang.github.io/images/avatar.png</logo>
     <icon>https://fredchang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fredchang</rights>
+    <entry>
+        <title type="html"><![CDATA[咋回事啊]]></title>
+        <id>https://fredchang.github.io/post/zha-hui-shi-a/</id>
+        <link href="https://fredchang.github.io/post/zha-hui-shi-a/">
+        </link>
+        <updated>2021-03-05T17:09:35.000Z</updated>
+        <content type="html"><![CDATA[<p>。。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就这？ 鸭王章鱼？]]></title>
         <id>https://fredchang.github.io/post/jiu-zhe-ya-wang-zhang-yu/</id>
